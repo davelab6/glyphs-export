@@ -8,12 +8,12 @@
       <FullName value="Family Sans Light Italic"/>
       <Weight value="Light"/>
       <isFixedPitch value="0"/>
-      <ItalicAngle value="-3.5"/>
+      <ItalicAngle value="-7"/>
       <UnderlineThickness value="50"/>
       <PaintType value="0"/>
       <CharstringType value="2"/>
       <FontMatrix value="0.001 0 0 0.001 0 0"/>
-      <FontBBox value="93 -200 410 800"/>
+      <FontBBox value="-14 -200 562 800"/>
       <StrokeWidth value="0"/>
       <!-- charset is dumped separately as the 'GlyphOrder' element -->
       <Encoding name="StandardEncoding"/>
@@ -61,7 +61,13 @@
           endchar
         </CharString>
         <CharString name="A">
-          -59 endchar
+          -88 10 -21 hstem
+          -14 576 vstem
+          426 699 rmoveto
+          -440 -562 116 -71 97 145 125 -41 -69 -181 180 -69 127 744 rlineto
+          -308 -372 rmoveto
+          105 157 63 -24 -64 -166 rlineto
+          endchar
         </CharString>
         <CharString name="B">
           endchar

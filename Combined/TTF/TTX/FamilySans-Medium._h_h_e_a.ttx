@@ -7,11 +7,11 @@
     <descent value="-200"/>
     <lineGap value="0"/>
     <advanceWidthMax value="600"/>
-    <minLeftSideBearing value="93"/>
-    <minRightSideBearing value="90"/>
-    <xMaxExtent value="410"/>
-    <caretSlopeRise value="1000"/>
-    <caretSlopeRun value="61"/>
+    <minLeftSideBearing value="0"/>
+    <minRightSideBearing value="0"/>
+    <xMaxExtent value="576"/>
+    <caretSlopeRise value="1"/>
+    <caretSlopeRun value="0"/>
     <caretOffset value="0"/>
     <reserved0 value="0"/>
     <reserved1 value="0"/>

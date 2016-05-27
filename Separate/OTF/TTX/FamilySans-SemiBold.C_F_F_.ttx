@@ -8,12 +8,12 @@
       <FullName value="Family Sans SemiBold"/>
       <Weight value="SemiBold"/>
       <isFixedPitch value="0"/>
-      <ItalicAngle value="0"/>
+      <ItalicAngle value="-3.5"/>
       <UnderlineThickness value="50"/>
       <PaintType value="0"/>
       <CharstringType value="2"/>
       <FontMatrix value="0.001 0 0 0.001 0 0"/>
-      <FontBBox value="0 -200 617 800"/>
+      <FontBBox value="93 -200 410 800"/>
       <StrokeWidth value="0"/>
       <!-- charset is dumped separately as the 'GlyphOrder' element -->
       <Encoding name="StandardEncoding"/>
@@ -61,15 +61,7 @@
           endchar
         </CharString>
         <CharString name="A">
-          10 16 -21 191.5 94.5 181 265 hstem
-          0 617 vstem
-          378 -5 rmoveto
-          239 hlineto
-          -184 740 -174 -16 -259 -682 166 -25 49 171 163 7 rlineto
-          -136 88 rmoveto
-          52 184 rlineto
-          83 -178 hlineto
-          endchar
+          1 endchar
         </CharString>
         <CharString name="B">
           endchar

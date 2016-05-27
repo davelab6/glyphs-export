@@ -107,31 +107,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="A" xMin="0" yMin="-6" xMax="655" yMax="734">
-      <contour>
-        <pt x="401" y="189" on="1"/>
-        <pt x="228" y="182" on="1"/>
-        <pt x="177" y="11" on="1"/>
-        <pt x="0" y="36" on="1"/>
-        <pt x="276" y="718" on="1"/>
-        <pt x="460" y="734" on="1"/>
-        <pt x="655" y="-6" on="1"/>
-        <pt x="401" y="-6" on="1"/>
-      </contour>
-      <contour>
-        <pt x="400" y="283" on="1"/>
-        <pt x="400" y="461" on="1"/>
-        <pt x="312" y="461" on="1"/>
-        <pt x="257" y="277" on="1"/>
-      </contour>
-      <instructions><assembly>
-          NPUSHB[ ]	/* 51 values pushed */
-          3 2 2 1 0 1 74 5 1 2 72 0 2 3 2 131 0 1 0 1 132 4 1 3 0
-          0 3 85 4 1 3 3 0 93 0 0 3 0 77 8 8 8 11 8 11 18 21 16 5 7
-          23
-          CALL[ ]	/* CallFunction */
-        </assembly></instructions>
-    </TTGlyph>
+    <TTGlyph name="A"/><!-- contains no outline data -->
 
     <TTGlyph name="B"/><!-- contains no outline data -->
 

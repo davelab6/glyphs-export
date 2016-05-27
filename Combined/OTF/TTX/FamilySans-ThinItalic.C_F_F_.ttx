@@ -8,12 +8,12 @@
       <FullName value="Family Sans Thin Italic"/>
       <Weight value="Thin"/>
       <isFixedPitch value="0"/>
-      <ItalicAngle value="-3.5"/>
+      <ItalicAngle value="-7"/>
       <UnderlineThickness value="50"/>
       <PaintType value="0"/>
       <CharstringType value="2"/>
       <FontMatrix value="0.001 0 0 0.001 0 0"/>
-      <FontBBox value="93 -200 410 800"/>
+      <FontBBox value="-15 -200 508 800"/>
       <StrokeWidth value="0"/>
       <!-- charset is dumped separately as the 'GlyphOrder' element -->
       <Encoding name="StandardEncoding"/>
@@ -28,11 +28,11 @@
         <ExpansionFactor value="0.06"/>
         <initialRandomSeed value="0"/>
         <defaultWidthX value="600"/>
-        <nominalWidthX value="607"/>
+        <nominalWidthX value="563"/>
       </Private>
       <CharStrings>
         <CharString name=".notdef">
-          -107 -200 69 33 47 33 23 33 47 33 60 33 24 56 22 34 23 33 37 33 27 34 36 34 26 33 37 33 67 hstem
+          -63 -200 69 33 47 33 23 33 47 33 60 33 24 56 22 34 23 33 37 33 27 34 36 34 26 33 37 33 67 hstem
           93 74 33 33 34 33 33 77 vstem
           410 800 rmoveto
           -317 -1000 317 hlineto
@@ -61,7 +61,13 @@
           endchar
         </CharString>
         <CharString name="A">
-          -99 endchar
+          -107 16 -21 hstem
+          -15 523 vstem
+          393 699 rmoveto
+          -408 -574 96 -63 91 147 106 -32 -70 -182 151 -58 149 735 rlineto
+          -197 -407 rmoveto
+          -88 27 99 159 53 -20 rlineto
+          endchar
         </CharString>
         <CharString name="B">
           endchar

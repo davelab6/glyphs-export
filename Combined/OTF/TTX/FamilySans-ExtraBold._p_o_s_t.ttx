@@ -3,7 +3,7 @@
 
   <post>
     <formatType value="3.0"/>
-    <italicAngle value="-3.5"/>
+    <italicAngle value="0.0"/>
     <underlinePosition value="-75"/>
     <underlineThickness value="50"/>
     <isFixedPitch value="0"/>

@@ -8,12 +8,12 @@
       <FullName value="Family Sans Light"/>
       <Weight value="Light"/>
       <isFixedPitch value="0"/>
-      <ItalicAngle value="-3.5"/>
+      <ItalicAngle value="0"/>
       <UnderlineThickness value="50"/>
       <PaintType value="0"/>
       <CharstringType value="2"/>
       <FontMatrix value="0.001 0 0 0.001 0 0"/>
-      <FontBBox value="93 -200 410 800"/>
+      <FontBBox value="0 -200 496 800"/>
       <StrokeWidth value="0"/>
       <!-- charset is dumped separately as the 'GlyphOrder' element -->
       <Encoding name="StandardEncoding"/>
@@ -28,11 +28,11 @@
         <ExpansionFactor value="0.06"/>
         <initialRandomSeed value="0"/>
         <defaultWidthX value="600"/>
-        <nominalWidthX value="607"/>
+        <nominalWidthX value="603"/>
       </Private>
       <CharStrings>
         <CharString name=".notdef">
-          -107 -200 69 33 47 33 23 33 47 33 60 33 24 56 22 34 23 33 37 33 27 34 36 34 26 33 37 33 67 hstem
+          -103 -200 69 33 47 33 23 33 47 33 60 33 24 56 22 34 23 33 37 33 27 34 36 34 26 33 37 33 67 hstem
           93 74 33 33 34 33 33 77 vstem
           410 800 rmoveto
           -317 -1000 317 hlineto
@@ -61,7 +61,15 @@
           endchar
         </CharString>
         <CharString name="A">
-          -59 endchar
+          -107 18 -21 191.5 94.5 hstem
+          0 496 vstem
+          304 -3 rmoveto
+          192 hlineto
+          -148 740 -139 -16 -209 -682 134 -25 39 171 131 7 rlineto
+          -110 88 rmoveto
+          42 184 rlineto
+          67 -178 hlineto
+          endchar
         </CharString>
         <CharString name="B">
           endchar

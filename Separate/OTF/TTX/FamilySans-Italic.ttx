@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="3.0">
+  <GlyphOrder src="FamilySans-Italic.GlyphOrder.ttx"/>
+  <head src="FamilySans-Italic._h_e_a_d.ttx"/>
+  <hhea src="FamilySans-Italic._h_h_e_a.ttx"/>
+  <maxp src="FamilySans-Italic._m_a_x_p.ttx"/>
+  <OS_2 src="FamilySans-Italic.O_S_2f_2.ttx"/>
+  <name src="FamilySans-Italic._n_a_m_e.ttx"/>
+  <cmap src="FamilySans-Italic._c_m_a_p.ttx"/>
+  <post src="FamilySans-Italic._p_o_s_t.ttx"/>
+  <CFF src="FamilySans-Italic.C_F_F_.ttx"/>
+  <GSUB src="FamilySans-Italic.G_S_U_B_.ttx"/>
+  <hmtx src="FamilySans-Italic._h_m_t_x.ttx"/>
+</ttFont>

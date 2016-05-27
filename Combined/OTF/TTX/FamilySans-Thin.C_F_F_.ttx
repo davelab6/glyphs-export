@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="3.0">
+
+  <CFF>
+    <CFFFont name="FamilySans-Thin">
+      <version value="001.004"/>
+      <Notice value="Copyright 2016 The Family Sans Project Authors"/>
+      <FullName value="Family Sans Thin"/>
+      <Weight value="Thin"/>
+      <isFixedPitch value="0"/>
+      <ItalicAngle value="-3.5"/>
+      <UnderlineThickness value="50"/>
+      <PaintType value="0"/>
+      <CharstringType value="2"/>
+      <FontMatrix value="0.001 0 0 0.001 0 0"/>
+      <FontBBox value="93 -200 410 800"/>
+      <StrokeWidth value="0"/>
+      <!-- charset is dumped separately as the 'GlyphOrder' element -->
+      <Encoding name="StandardEncoding"/>
+      <Private>
+        <BlueValues value="-16 0 500 516 700 716 800 816"/>
+        <OtherBlues value="-216 -200"/>
+        <BlueScale value="0.037"/>
+        <BlueShift value="7"/>
+        <BlueFuzz value="0"/>
+        <ForceBold value="0"/>
+        <LanguageGroup value="0"/>
+        <ExpansionFactor value="0.06"/>
+        <initialRandomSeed value="0"/>
+        <defaultWidthX value="600"/>
+        <nominalWidthX value="607"/>
+      </Private>
+      <CharStrings>
+        <CharString name=".notdef">
+          -107 -200 69 33 47 33 23 33 47 33 60 33 24 56 22 34 23 33 37 33 27 34 36 34 26 33 37 33 67 hstem
+          93 74 33 33 34 33 33 77 vstem
+          410 800 rmoveto
+          -317 -1000 317 hlineto
+          -77 933 rmoveto
+          -33 -66 -37 66 -33 -166 33 66 37 -65 33 vlineto
+          99 -129 rmoveto
+          -70 66 -34 -166 104 vlineto
+          66 -34 rmoveto
+          -33 -36 33 hlineto
+          100 -61 rmoveto
+          -33 -66 -70 -100 33 66 37 -66 33 vlineto
+          166 -60 rmoveto
+          -100 -166 34 133 66 vlineto
+          33 -122 rmoveto
+          -113 -166 113 33 -80 100 47 -33 -23 -34 56 vlineto
+          100 -173 rmoveto
+          -113 -166 113 vlineto
+          133 -33 rmoveto
+          -100 -47 100 hlineto
+          33 -56 rmoveto
+          -33 -32 vlineto
+          -70 -47 rlineto
+          102 -33 -166 33 hlineto
+          70 47 rlineto
+          -70 33 hlineto
+          endchar
+        </CharString>
+        <CharString name="A">
+          -99 endchar
+        </CharString>
+        <CharString name="B">
+          endchar
+        </CharString>
+        <CharString name="C">
+          endchar
+        </CharString>
+        <CharString name="D">
+          endchar
+        </CharString>
+        <CharString name="E">
+          endchar
+        </CharString>
+        <CharString name="F">
+          endchar
+        </CharString>
+        <CharString name="G">
+          endchar
+        </CharString>
+        <CharString name="H">
+          endchar
+        </CharString>
+        <CharString name="I">
+          endchar
+        </CharString>
+        <CharString name="J">
+          endchar
+        </CharString>
+        <CharString name="K">
+          endchar
+        </CharString>
+        <CharString name="L">
+          endchar
+        </CharString>
+        <CharString name="M">
+          endchar
+        </CharString>
+        <CharString name="N">
+          endchar
+        </CharString>
+        <CharString name="O">
+          endchar
+        </CharString>
+        <CharString name="P">
+          endchar
+        </CharString>
+        <CharString name="Q">
+          endchar
+        </CharString>
+        <CharString name="R">
+          endchar
+        </CharString>
+        <CharString name="S">
+          endchar
+        </CharString>
+        <CharString name="T">
+          endchar
+        </CharString>
+        <CharString name="U">
+          endchar
+        </CharString>
+        <CharString name="V">
+          endchar
+        </CharString>
+        <CharString name="W">
+          endchar
+        </CharString>
+        <CharString name="X">
+          endchar
+        </CharString>
+        <CharString name="Y">
+          endchar
+        </CharString>
+        <CharString name="Z">
+          endchar
+        </CharString>
+        <CharString name="a">
+          endchar
+        </CharString>
+        <CharString name="b">
+          endchar
+        </CharString>
+        <CharString name="c">
+          endchar
+        </CharString>
+        <CharString name="d">
+          endchar
+        </CharString>
+        <CharString name="e">
+          endchar
+        </CharString>
+        <CharString name="f">
+          endchar
+        </CharString>
+        <CharString name="g">
+          endchar
+        </CharString>
+        <CharString name="h">
+          endchar
+        </CharString>
+        <CharString name="i">
+          endchar
+        </CharString>
+        <CharString name="j">
+          endchar
+        </CharString>
+        <CharString name="k">
+          endchar
+        </CharString>
+        <CharString name="l">
+          endchar
+        </CharString>
+        <CharString name="m">
+          endchar
+        </CharString>
+        <CharString name="n">
+          endchar
+        </CharString>
+        <CharString name="o">
+          endchar
+        </CharString>
+        <CharString name="p">
+          endchar
+        </CharString>
+        <CharString name="q">
+          endchar
+        </CharString>
+        <CharString name="r">
+          endchar
+        </CharString>
+        <CharString name="s">
+          endchar
+        </CharString>
+        <CharString name="space">
+          endchar
+        </CharString>
+        <CharString name="t">
+          endchar
+        </CharString>
+        <CharString name="u">
+          endchar
+        </CharString>
+        <CharString name="v">
+          endchar
+        </CharString>
+        <CharString name="w">
+          endchar
+        </CharString>
+        <CharString name="x">
+          endchar
+        </CharString>
+        <CharString name="y">
+          endchar
+        </CharString>
+        <CharString name="z">
+          endchar
+        </CharString>
+      </CharStrings>
+    </CFFFont>
+
+    <GlobalSubrs>
+      <!-- The 'index' attribute is only for humans; it is ignored when parsed. -->
+    </GlobalSubrs>
+  </CFF>
+
+</ttFont>

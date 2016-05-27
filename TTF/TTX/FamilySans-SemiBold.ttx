@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+  <GlyphOrder src="FamilySans-SemiBold.GlyphOrder.ttx"/>
+  <head src="FamilySans-SemiBold._h_e_a_d.ttx"/>
+  <hhea src="FamilySans-SemiBold._h_h_e_a.ttx"/>
+  <maxp src="FamilySans-SemiBold._m_a_x_p.ttx"/>
+  <OS_2 src="FamilySans-SemiBold.O_S_2f_2.ttx"/>
+  <hmtx src="FamilySans-SemiBold._h_m_t_x.ttx"/>
+  <cmap src="FamilySans-SemiBold._c_m_a_p.ttx"/>
+  <fpgm src="FamilySans-SemiBold._f_p_g_m.ttx"/>
+  <prep src="FamilySans-SemiBold._p_r_e_p.ttx"/>
+  <cvt src="FamilySans-SemiBold._c_v_t.ttx"/>
+  <loca src="FamilySans-SemiBold._l_o_c_a.ttx"/>
+  <glyf src="FamilySans-SemiBold._g_l_y_f.ttx"/>
+  <name src="FamilySans-SemiBold._n_a_m_e.ttx"/>
+  <post src="FamilySans-SemiBold._p_o_s_t.ttx"/>
+  <gasp src="FamilySans-SemiBold._g_a_s_p.ttx"/>
+  <GSUB src="FamilySans-SemiBold.G_S_U_B_.ttx"/>
+  <DSIG src="FamilySans-SemiBold.D_S_I_G_.ttx"/>
+</ttFont>

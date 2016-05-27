@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="3.0">
+  <GlyphOrder src="FamilySans-ExtraLight.GlyphOrder.ttx"/>
+  <head src="FamilySans-ExtraLight._h_e_a_d.ttx"/>
+  <hhea src="FamilySans-ExtraLight._h_h_e_a.ttx"/>
+  <maxp src="FamilySans-ExtraLight._m_a_x_p.ttx"/>
+  <OS_2 src="FamilySans-ExtraLight.O_S_2f_2.ttx"/>
+  <name src="FamilySans-ExtraLight._n_a_m_e.ttx"/>
+  <cmap src="FamilySans-ExtraLight._c_m_a_p.ttx"/>
+  <post src="FamilySans-ExtraLight._p_o_s_t.ttx"/>
+  <CFF src="FamilySans-ExtraLight.C_F_F_.ttx"/>
+  <GSUB src="FamilySans-ExtraLight.G_S_U_B_.ttx"/>
+  <hmtx src="FamilySans-ExtraLight._h_m_t_x.ttx"/>
+</ttFont>

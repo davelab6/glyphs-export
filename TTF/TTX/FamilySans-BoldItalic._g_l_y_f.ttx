@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="3.0">
+
+  <glyf>
+
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+
+    <TTGlyph name=".notdef" xMin="93" yMin="-200" xMax="410" yMax="800">
+      <contour>
+        <pt x="410" y="-200" on="1"/>
+        <pt x="93" y="-200" on="1"/>
+        <pt x="93" y="800" on="1"/>
+        <pt x="410" y="800" on="1"/>
+      </contour>
+      <contour>
+        <pt x="168" y="733" on="1"/>
+        <pt x="168" y="700" on="1"/>
+        <pt x="233" y="700" on="1"/>
+        <pt x="233" y="663" on="1"/>
+        <pt x="167" y="663" on="1"/>
+        <pt x="167" y="630" on="1"/>
+        <pt x="333" y="630" on="1"/>
+        <pt x="333" y="663" on="1"/>
+        <pt x="267" y="663" on="1"/>
+        <pt x="267" y="700" on="1"/>
+        <pt x="333" y="700" on="1"/>
+        <pt x="333" y="733" on="1"/>
+      </contour>
+      <contour>
+        <pt x="167" y="604" on="1"/>
+        <pt x="167" y="500" on="1"/>
+        <pt x="333" y="500" on="1"/>
+        <pt x="333" y="534" on="1"/>
+        <pt x="267" y="534" on="1"/>
+        <pt x="267" y="604" on="1"/>
+      </contour>
+      <contour>
+        <pt x="233" y="534" on="1"/>
+        <pt x="200" y="534" on="1"/>
+        <pt x="200" y="570" on="1"/>
+        <pt x="233" y="570" on="1"/>
+      </contour>
+      <contour>
+        <pt x="167" y="473" on="1"/>
+        <pt x="167" y="440" on="1"/>
+        <pt x="233" y="440" on="1"/>
+        <pt x="233" y="403" on="1"/>
+        <pt x="167" y="403" on="1"/>
+        <pt x="167" y="370" on="1"/>
+        <pt x="267" y="370" on="1"/>
+        <pt x="267" y="440" on="1"/>
+        <pt x="333" y="440" on="1"/>
+        <pt x="333" y="473" on="1"/>
+      </contour>
+      <contour>
+        <pt x="300" y="413" on="1"/>
+        <pt x="300" y="347" on="1"/>
+        <pt x="167" y="347" on="1"/>
+        <pt x="167" y="313" on="1"/>
+        <pt x="333" y="313" on="1"/>
+        <pt x="333" y="413" on="1"/>
+      </contour>
+      <contour>
+        <pt x="233" y="291" on="1"/>
+        <pt x="233" y="235" on="1"/>
+        <pt x="267" y="235" on="1"/>
+        <pt x="267" y="258" on="1"/>
+        <pt x="300" y="258" on="1"/>
+        <pt x="300" y="211" on="1"/>
+        <pt x="200" y="211" on="1"/>
+        <pt x="200" y="291" on="1"/>
+        <pt x="167" y="291" on="1"/>
+        <pt x="167" y="178" on="1"/>
+        <pt x="333" y="178" on="1"/>
+        <pt x="333" y="291" on="1"/>
+      </contour>
+      <contour>
+        <pt x="167" y="118" on="1"/>
+        <pt x="167" y="5" on="1"/>
+        <pt x="333" y="5" on="1"/>
+        <pt x="333" y="118" on="1"/>
+      </contour>
+      <contour>
+        <pt x="300" y="38" on="1"/>
+        <pt x="200" y="38" on="1"/>
+        <pt x="200" y="85" on="1"/>
+        <pt x="300" y="85" on="1"/>
+      </contour>
+      <contour>
+        <pt x="167" y="-18" on="1"/>
+        <pt x="167" y="-51" on="1"/>
+        <pt x="237" y="-51" on="1"/>
+        <pt x="167" y="-98" on="1"/>
+        <pt x="167" y="-131" on="1"/>
+        <pt x="333" y="-131" on="1"/>
+        <pt x="333" y="-98" on="1"/>
+        <pt x="231" y="-98" on="1"/>
+        <pt x="301" y="-51" on="1"/>
+        <pt x="333" y="-51" on="1"/>
+        <pt x="333" y="-18" on="1"/>
+      </contour>
+      <instructions><assembly>
+          NPUSHB[ ]	/* 22 values pushed */
+          66 62 60 58 55 54 51 42 39 36 31 26 24 22 17 16 9 4 2 0 10 48
+          CALL[ ]	/* CallFunction */
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="A" xMin="-27" yMin="12" xMax="819" yMax="724">
+      <contour>
+        <pt x="564" y="155" on="1"/>
+        <pt x="302" y="197" on="1"/>
+        <pt x="159" y="59" on="1"/>
+        <pt x="-27" y="33" on="1"/>
+        <pt x="425" y="697" on="1"/>
+        <pt x="647" y="724" on="1"/>
+        <pt x="728" y="394" on="1"/>
+        <pt x="819" y="24" on="0"/>
+        <pt x="819" y="14" on="1"/>
+        <pt x="584" y="12" on="1"/>
+      </contour>
+      <contour>
+        <pt x="552" y="244" on="1"/>
+        <pt x="528" y="415" on="1"/>
+        <pt x="390" y="282" on="1"/>
+      </contour>
+      <instructions><assembly>
+          NPUSHB[ ]	/* 16 values pushed */
+          12 11 5 3 1 5 0 72 0 0 0 116 24 1 7 21
+          CALL[ ]	/* CallFunction */
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="B"/><!-- contains no outline data -->
+
+    <TTGlyph name="C"/><!-- contains no outline data -->
+
+    <TTGlyph name="D"/><!-- contains no outline data -->
+
+    <TTGlyph name="E"/><!-- contains no outline data -->
+
+    <TTGlyph name="F"/><!-- contains no outline data -->
+
+    <TTGlyph name="G"/><!-- contains no outline data -->
+
+    <TTGlyph name="H"/><!-- contains no outline data -->
+
+    <TTGlyph name="I"/><!-- contains no outline data -->
+
+    <TTGlyph name="J"/><!-- contains no outline data -->
+
+    <TTGlyph name="K"/><!-- contains no outline data -->
+
+    <TTGlyph name="L"/><!-- contains no outline data -->
+
+    <TTGlyph name="M"/><!-- contains no outline data -->
+
+    <TTGlyph name="N"/><!-- contains no outline data -->
+
+    <TTGlyph name="O"/><!-- contains no outline data -->
+
+    <TTGlyph name="P"/><!-- contains no outline data -->
+
+    <TTGlyph name="Q"/><!-- contains no outline data -->
+
+    <TTGlyph name="R"/><!-- contains no outline data -->
+
+    <TTGlyph name="S"/><!-- contains no outline data -->
+
+    <TTGlyph name="T"/><!-- contains no outline data -->
+
+    <TTGlyph name="U"/><!-- contains no outline data -->
+
+    <TTGlyph name="V"/><!-- contains no outline data -->
+
+    <TTGlyph name="W"/><!-- contains no outline data -->
+
+    <TTGlyph name="X"/><!-- contains no outline data -->
+
+    <TTGlyph name="Y"/><!-- contains no outline data -->
+
+    <TTGlyph name="Z"/><!-- contains no outline data -->
+
+    <TTGlyph name="a"/><!-- contains no outline data -->
+
+    <TTGlyph name="b"/><!-- contains no outline data -->
+
+    <TTGlyph name="c"/><!-- contains no outline data -->
+
+    <TTGlyph name="d"/><!-- contains no outline data -->
+
+    <TTGlyph name="e"/><!-- contains no outline data -->
+
+    <TTGlyph name="f"/><!-- contains no outline data -->
+
+    <TTGlyph name="g"/><!-- contains no outline data -->
+
+    <TTGlyph name="h"/><!-- contains no outline data -->
+
+    <TTGlyph name="i"/><!-- contains no outline data -->
+
+    <TTGlyph name="j"/><!-- contains no outline data -->
+
+    <TTGlyph name="k"/><!-- contains no outline data -->
+
+    <TTGlyph name="l"/><!-- contains no outline data -->
+
+    <TTGlyph name="m"/><!-- contains no outline data -->
+
+    <TTGlyph name="n"/><!-- contains no outline data -->
+
+    <TTGlyph name="o"/><!-- contains no outline data -->
+
+    <TTGlyph name="p"/><!-- contains no outline data -->
+
+    <TTGlyph name="q"/><!-- contains no outline data -->
+
+    <TTGlyph name="r"/><!-- contains no outline data -->
+
+    <TTGlyph name="s"/><!-- contains no outline data -->
+
+    <TTGlyph name="space"/><!-- contains no outline data -->
+
+    <TTGlyph name="t"/><!-- contains no outline data -->
+
+    <TTGlyph name="u"/><!-- contains no outline data -->
+
+    <TTGlyph name="v"/><!-- contains no outline data -->
+
+    <TTGlyph name="w"/><!-- contains no outline data -->
+
+    <TTGlyph name="x"/><!-- contains no outline data -->
+
+    <TTGlyph name="y"/><!-- contains no outline data -->
+
+    <TTGlyph name="z"/><!-- contains no outline data -->
+
+  </glyf>
+
+</ttFont>

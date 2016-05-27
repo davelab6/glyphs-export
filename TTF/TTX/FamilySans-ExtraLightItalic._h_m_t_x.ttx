@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="3.0">
+
+  <hmtx>
+    <mtx name=".notdef" width="500" lsb="93"/>
+    <mtx name="A" width="581" lsb="-27"/>
+    <mtx name="B" width="600" lsb="0"/>
+    <mtx name="C" width="600" lsb="0"/>
+    <mtx name="D" width="600" lsb="0"/>
+    <mtx name="E" width="600" lsb="0"/>
+    <mtx name="F" width="600" lsb="0"/>
+    <mtx name="G" width="600" lsb="0"/>
+    <mtx name="H" width="600" lsb="0"/>
+    <mtx name="I" width="600" lsb="0"/>
+    <mtx name="J" width="600" lsb="0"/>
+    <mtx name="K" width="600" lsb="0"/>
+    <mtx name="L" width="600" lsb="0"/>
+    <mtx name="M" width="600" lsb="0"/>
+    <mtx name="N" width="600" lsb="0"/>
+    <mtx name="O" width="600" lsb="0"/>
+    <mtx name="P" width="600" lsb="0"/>
+    <mtx name="Q" width="600" lsb="0"/>
+    <mtx name="R" width="600" lsb="0"/>
+    <mtx name="S" width="600" lsb="0"/>
+    <mtx name="T" width="600" lsb="0"/>
+    <mtx name="U" width="600" lsb="0"/>
+    <mtx name="V" width="600" lsb="0"/>
+    <mtx name="W" width="600" lsb="0"/>
+    <mtx name="X" width="600" lsb="0"/>
+    <mtx name="Y" width="600" lsb="0"/>
+    <mtx name="Z" width="600" lsb="0"/>
+    <mtx name="a" width="600" lsb="0"/>
+    <mtx name="b" width="600" lsb="0"/>
+    <mtx name="c" width="600" lsb="0"/>
+    <mtx name="d" width="600" lsb="0"/>
+    <mtx name="e" width="600" lsb="0"/>
+    <mtx name="f" width="600" lsb="0"/>
+    <mtx name="g" width="600" lsb="0"/>
+    <mtx name="h" width="600" lsb="0"/>
+    <mtx name="i" width="600" lsb="0"/>
+    <mtx name="j" width="600" lsb="0"/>
+    <mtx name="k" width="600" lsb="0"/>
+    <mtx name="l" width="600" lsb="0"/>
+    <mtx name="m" width="600" lsb="0"/>
+    <mtx name="n" width="600" lsb="0"/>
+    <mtx name="o" width="600" lsb="0"/>
+    <mtx name="p" width="600" lsb="0"/>
+    <mtx name="q" width="600" lsb="0"/>
+    <mtx name="r" width="600" lsb="0"/>
+    <mtx name="s" width="600" lsb="0"/>
+    <mtx name="space" width="600" lsb="0"/>
+    <mtx name="t" width="600" lsb="0"/>
+    <mtx name="u" width="600" lsb="0"/>
+    <mtx name="v" width="600" lsb="0"/>
+    <mtx name="w" width="600" lsb="0"/>
+    <mtx name="x" width="600" lsb="0"/>
+    <mtx name="y" width="600" lsb="0"/>
+    <mtx name="z" width="600" lsb="0"/>
+  </hmtx>
+
+</ttFont>

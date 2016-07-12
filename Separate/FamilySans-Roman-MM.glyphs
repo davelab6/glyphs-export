@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "903";
 copyright = "Copyright 2016 The Family Sans Project Authors";
 customParameters = (
 {
@@ -25,6 +25,10 @@ value = MRSD;
 },
 {
 name = "Disable Last Change";
+value = 1;
+},
+{
+name = "Use Line Breaks";
 value = 1;
 }
 );
@@ -947,5 +951,5 @@ manufacturer = "Foundry Foundry";
 manufacturerURL = "http://www.foundry.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }

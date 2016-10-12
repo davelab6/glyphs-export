@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "926";
 copyright = "Copyright 2016 The Family Sans Project Authors";
 customParameters = (
 {
@@ -939,6 +939,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
+linkStyle = Regular;
 name = "Bold Italic";
 weightClass = Bold;
 },

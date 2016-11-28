@@ -8,12 +8,13 @@
 
     <TTGlyph name=".notdef" xMin="93" yMin="-200" xMax="410" yMax="800">
       <contour>
+        <pt x="410" y="800" on="1"/>
         <pt x="410" y="-200" on="1"/>
         <pt x="93" y="-200" on="1"/>
         <pt x="93" y="800" on="1"/>
-        <pt x="410" y="800" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="733" on="1"/>
         <pt x="168" y="733" on="1"/>
         <pt x="168" y="700" on="1"/>
         <pt x="233" y="700" on="1"/>
@@ -25,23 +26,23 @@
         <pt x="267" y="663" on="1"/>
         <pt x="267" y="700" on="1"/>
         <pt x="333" y="700" on="1"/>
-        <pt x="333" y="733" on="1"/>
       </contour>
       <contour>
+        <pt x="267" y="604" on="1"/>
         <pt x="167" y="604" on="1"/>
         <pt x="167" y="500" on="1"/>
         <pt x="333" y="500" on="1"/>
         <pt x="333" y="534" on="1"/>
         <pt x="267" y="534" on="1"/>
-        <pt x="267" y="604" on="1"/>
       </contour>
       <contour>
+        <pt x="233" y="570" on="1"/>
         <pt x="233" y="534" on="1"/>
         <pt x="200" y="534" on="1"/>
         <pt x="200" y="570" on="1"/>
-        <pt x="233" y="570" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="473" on="1"/>
         <pt x="167" y="473" on="1"/>
         <pt x="167" y="440" on="1"/>
         <pt x="233" y="440" on="1"/>
@@ -51,17 +52,17 @@
         <pt x="267" y="370" on="1"/>
         <pt x="267" y="440" on="1"/>
         <pt x="333" y="440" on="1"/>
-        <pt x="333" y="473" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="413" on="1"/>
         <pt x="300" y="413" on="1"/>
         <pt x="300" y="347" on="1"/>
         <pt x="167" y="347" on="1"/>
         <pt x="167" y="313" on="1"/>
         <pt x="333" y="313" on="1"/>
-        <pt x="333" y="413" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="291" on="1"/>
         <pt x="233" y="291" on="1"/>
         <pt x="233" y="235" on="1"/>
         <pt x="267" y="235" on="1"/>
@@ -73,21 +74,21 @@
         <pt x="167" y="291" on="1"/>
         <pt x="167" y="178" on="1"/>
         <pt x="333" y="178" on="1"/>
-        <pt x="333" y="291" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="118" on="1"/>
         <pt x="167" y="118" on="1"/>
         <pt x="167" y="5" on="1"/>
         <pt x="333" y="5" on="1"/>
-        <pt x="333" y="118" on="1"/>
       </contour>
       <contour>
+        <pt x="300" y="85" on="1"/>
         <pt x="300" y="38" on="1"/>
         <pt x="200" y="38" on="1"/>
         <pt x="200" y="85" on="1"/>
-        <pt x="300" y="85" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="-18" on="1"/>
         <pt x="167" y="-18" on="1"/>
         <pt x="167" y="-51" on="1"/>
         <pt x="237" y="-51" on="1"/>
@@ -98,16 +99,39 @@
         <pt x="231" y="-98" on="1"/>
         <pt x="301" y="-51" on="1"/>
         <pt x="333" y="-51" on="1"/>
-        <pt x="333" y="-18" on="1"/>
       </contour>
       <instructions><assembly>
           NPUSHB[ ]	/* 22 values pushed */
-          66 62 60 58 55 54 51 42 39 36 31 26 24 22 17 16 9 4 2 0 10 48
+          67 62 59 58 56 54 52 42 40 36 32 26 23 22 18 16 10 4 1 0 10 48
           CALL[ ]	/* CallFunction */
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="A"/><!-- contains no outline data -->
+    <TTGlyph name="A" xMin="0" yMin="-7" xMax="697" yMax="733">
+      <contour>
+        <pt x="427" y="-7" on="1"/>
+        <pt x="427" y="188" on="1"/>
+        <pt x="243" y="181" on="1"/>
+        <pt x="188" y="10" on="1"/>
+        <pt x="0" y="35" on="1"/>
+        <pt x="293" y="717" on="1"/>
+        <pt x="489" y="733" on="1"/>
+        <pt x="697" y="-7" on="1"/>
+      </contour>
+      <contour>
+        <pt x="273" y="276" on="1"/>
+        <pt x="426" y="282" on="1"/>
+        <pt x="426" y="460" on="1"/>
+        <pt x="332" y="460" on="1"/>
+      </contour>
+      <instructions><assembly>
+          NPUSHB[ ]	/* 52 values pushed */
+          4 3 2 1 0 1 74 6 1 3 72 0 3 2 3 131 4 1 1 0 1 132 0 2 0
+          0 2 85 0 2 2 0 93 0 0 2 0 77 0 0 11 10 9 8 0 7 0 7 17 5
+          7 21
+          CALL[ ]	/* CallFunction */
+        </assembly></instructions>
+    </TTGlyph>
 
     <TTGlyph name="B"/><!-- contains no outline data -->
 

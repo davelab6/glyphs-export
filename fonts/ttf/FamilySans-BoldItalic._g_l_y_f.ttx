@@ -8,12 +8,13 @@
 
     <TTGlyph name=".notdef" xMin="93" yMin="-200" xMax="410" yMax="800">
       <contour>
+        <pt x="410" y="800" on="1"/>
         <pt x="410" y="-200" on="1"/>
         <pt x="93" y="-200" on="1"/>
         <pt x="93" y="800" on="1"/>
-        <pt x="410" y="800" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="733" on="1"/>
         <pt x="168" y="733" on="1"/>
         <pt x="168" y="700" on="1"/>
         <pt x="233" y="700" on="1"/>
@@ -25,23 +26,23 @@
         <pt x="267" y="663" on="1"/>
         <pt x="267" y="700" on="1"/>
         <pt x="333" y="700" on="1"/>
-        <pt x="333" y="733" on="1"/>
       </contour>
       <contour>
+        <pt x="267" y="604" on="1"/>
         <pt x="167" y="604" on="1"/>
         <pt x="167" y="500" on="1"/>
         <pt x="333" y="500" on="1"/>
         <pt x="333" y="534" on="1"/>
         <pt x="267" y="534" on="1"/>
-        <pt x="267" y="604" on="1"/>
       </contour>
       <contour>
+        <pt x="233" y="570" on="1"/>
         <pt x="233" y="534" on="1"/>
         <pt x="200" y="534" on="1"/>
         <pt x="200" y="570" on="1"/>
-        <pt x="233" y="570" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="473" on="1"/>
         <pt x="167" y="473" on="1"/>
         <pt x="167" y="440" on="1"/>
         <pt x="233" y="440" on="1"/>
@@ -51,17 +52,17 @@
         <pt x="267" y="370" on="1"/>
         <pt x="267" y="440" on="1"/>
         <pt x="333" y="440" on="1"/>
-        <pt x="333" y="473" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="413" on="1"/>
         <pt x="300" y="413" on="1"/>
         <pt x="300" y="347" on="1"/>
         <pt x="167" y="347" on="1"/>
         <pt x="167" y="313" on="1"/>
         <pt x="333" y="313" on="1"/>
-        <pt x="333" y="413" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="291" on="1"/>
         <pt x="233" y="291" on="1"/>
         <pt x="233" y="235" on="1"/>
         <pt x="267" y="235" on="1"/>
@@ -73,21 +74,21 @@
         <pt x="167" y="291" on="1"/>
         <pt x="167" y="178" on="1"/>
         <pt x="333" y="178" on="1"/>
-        <pt x="333" y="291" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="118" on="1"/>
         <pt x="167" y="118" on="1"/>
         <pt x="167" y="5" on="1"/>
         <pt x="333" y="5" on="1"/>
-        <pt x="333" y="118" on="1"/>
       </contour>
       <contour>
+        <pt x="300" y="85" on="1"/>
         <pt x="300" y="38" on="1"/>
         <pt x="200" y="38" on="1"/>
         <pt x="200" y="85" on="1"/>
-        <pt x="300" y="85" on="1"/>
       </contour>
       <contour>
+        <pt x="333" y="-18" on="1"/>
         <pt x="167" y="-18" on="1"/>
         <pt x="167" y="-51" on="1"/>
         <pt x="237" y="-51" on="1"/>
@@ -98,11 +99,10 @@
         <pt x="231" y="-98" on="1"/>
         <pt x="301" y="-51" on="1"/>
         <pt x="333" y="-51" on="1"/>
-        <pt x="333" y="-18" on="1"/>
       </contour>
       <instructions><assembly>
           NPUSHB[ ]	/* 22 values pushed */
-          66 62 60 58 55 54 51 42 39 36 31 26 24 22 17 16 9 4 2 0 10 48
+          67 62 59 58 56 54 52 42 40 36 32 26 23 22 18 16 10 4 1 0 10 48
           CALL[ ]	/* CallFunction */
         </assembly></instructions>
     </TTGlyph>
@@ -121,9 +121,9 @@
         <pt x="584" y="12" on="1"/>
       </contour>
       <contour>
+        <pt x="390" y="282" on="1"/>
         <pt x="552" y="244" on="1"/>
         <pt x="528" y="415" on="1"/>
-        <pt x="390" y="282" on="1"/>
       </contour>
       <instructions><assembly>
           NPUSHB[ ]	/* 16 values pushed */

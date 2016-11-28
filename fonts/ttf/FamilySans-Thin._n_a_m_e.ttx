@@ -12,13 +12,13 @@
       Thin
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      1.004;MRSD;FamilySans-Thin
+      1.005;MRSD;FamilySans-Thin
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Family Sans Thin
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 1.004
+      Version 1.005
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       FamilySans-Thin
@@ -54,13 +54,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.004;MRSD;FamilySans-Thin
+      1.005;MRSD;FamilySans-Thin
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
-      FamilySans-Thin
+      Family Sans Thin
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.004
+      Version 1.005
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       FamilySans-Thin

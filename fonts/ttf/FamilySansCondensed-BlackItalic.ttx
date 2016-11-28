@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+  <GlyphOrder src="FamilySansCondensed-BlackItalic.GlyphOrder.ttx"/>
+  <head src="FamilySansCondensed-BlackItalic._h_e_a_d.ttx"/>
+  <hhea src="FamilySansCondensed-BlackItalic._h_h_e_a.ttx"/>
+  <maxp src="FamilySansCondensed-BlackItalic._m_a_x_p.ttx"/>
+  <OS_2 src="FamilySansCondensed-BlackItalic.O_S_2f_2.ttx"/>
+  <hmtx src="FamilySansCondensed-BlackItalic._h_m_t_x.ttx"/>
+  <cmap src="FamilySansCondensed-BlackItalic._c_m_a_p.ttx"/>
+  <fpgm src="FamilySansCondensed-BlackItalic._f_p_g_m.ttx"/>
+  <prep src="FamilySansCondensed-BlackItalic._p_r_e_p.ttx"/>
+  <cvt src="FamilySansCondensed-BlackItalic._c_v_t.ttx"/>
+  <loca src="FamilySansCondensed-BlackItalic._l_o_c_a.ttx"/>
+  <glyf src="FamilySansCondensed-BlackItalic._g_l_y_f.ttx"/>
+  <name src="FamilySansCondensed-BlackItalic._n_a_m_e.ttx"/>
+  <post src="FamilySansCondensed-BlackItalic._p_o_s_t.ttx"/>
+  <gasp src="FamilySansCondensed-BlackItalic._g_a_s_p.ttx"/>
+  <GSUB src="FamilySansCondensed-BlackItalic.G_S_U_B_.ttx"/>
+  <DSIG src="FamilySansCondensed-BlackItalic.D_S_I_G_.ttx"/>
+</ttFont>

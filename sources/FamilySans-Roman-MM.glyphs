@@ -1,9 +1,6 @@
 {
-.appVersion = "923";
-DisplayStrings = (
-A
-);
-copyright = "Copyright 2016 The Family Sans Project Authors";
+.appVersion = "1075";
+copyright = "Copyright 2016 The Family Sans Project Authors (https://github.com/user/familysans)";
 customParameters = (
 {
 name = license;
@@ -1483,10 +1480,10 @@ value = "FamilySans Condensed";
 interpolationWeight = 38;
 interpolationWidth = 40;
 instanceInterpolations = {
-"85AC2785-5E04-45F9-9325-840BBCF66CE9" = -0.1;
-"7F19BF55-1400-465C-87B1-98037BC2C5DC" = 0.48;
-"331641EE-AE8E-4E94-93A0-32EF0B0FBAF5" = 0.72;
-"59C369C5-2D9B-4F7E-8ED0-C8F4C03C2E8D" = -0.1;
+"331641EE-AE8E-4E94-93A0-32EF0B0FBAF5" = 0.744;
+"59C369C5-2D9B-4F7E-8ED0-C8F4C03C2E8D" = -0.124;
+"7F19BF55-1400-465C-87B1-98037BC2C5DC" = 0.456;
+"85AC2785-5E04-45F9-9325-840BBCF66CE9" = -0.076;
 };
 name = Regular;
 widthClass = Condensed;
@@ -1501,10 +1498,10 @@ value = "FamilySans Condensed";
 interpolationWeight = 75;
 interpolationWidth = 40;
 instanceInterpolations = {
-"85AC2785-5E04-45F9-9325-840BBCF66CE9" = -0.1;
-"7F19BF55-1400-465C-87B1-98037BC2C5DC" = 0.85;
-"331641EE-AE8E-4E94-93A0-32EF0B0FBAF5" = 0.35;
-"59C369C5-2D9B-4F7E-8ED0-C8F4C03C2E8D" = -0.1;
+"331641EE-AE8E-4E94-93A0-32EF0B0FBAF5" = 0.3;
+"59C369C5-2D9B-4F7E-8ED0-C8F4C03C2E8D" = -0.05;
+"7F19BF55-1400-465C-87B1-98037BC2C5DC" = 0.9;
+"85AC2785-5E04-45F9-9325-840BBCF66CE9" = -0.15;
 };
 isBold = 1;
 name = Bold;

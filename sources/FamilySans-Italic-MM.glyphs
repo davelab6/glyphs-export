@@ -1,9 +1,9 @@
 {
-.appVersion = "923";
+.appVersion = "1075";
 DisplayStrings = (
 A
 );
-copyright = "Copyright 2016 The Family Sans Project Authors";
+copyright = "Copyright 2016 The Family Sans Project Authors (https://github.com/user/familysans)";
 customParameters = (
 {
 name = license;
@@ -1395,8 +1395,8 @@ value = "275";
 );
 interpolationWeight = 13;
 instanceInterpolations = {
-"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.13;
 "93A23BC2-8596-4C7C-91D5-4BE1B62211B3" = 0.87;
+"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.13;
 };
 isItalic = 1;
 linkStyle = ExtraLight;
@@ -1406,8 +1406,8 @@ weightClass = ExtraLight;
 {
 interpolationWeight = 25;
 instanceInterpolations = {
-"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.25;
 "93A23BC2-8596-4C7C-91D5-4BE1B62211B3" = 0.75;
+"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.25;
 };
 isItalic = 1;
 linkStyle = Light;
@@ -1417,8 +1417,8 @@ weightClass = Light;
 {
 interpolationWeight = 38;
 instanceInterpolations = {
-"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.38;
 "93A23BC2-8596-4C7C-91D5-4BE1B62211B3" = 0.62;
+"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.38;
 };
 isItalic = 1;
 name = Italic;
@@ -1426,8 +1426,8 @@ name = Italic;
 {
 interpolationWeight = 50;
 instanceInterpolations = {
-"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.5;
 "93A23BC2-8596-4C7C-91D5-4BE1B62211B3" = 0.5;
+"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.5;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -1437,8 +1437,8 @@ weightClass = Medium;
 {
 interpolationWeight = 63;
 instanceInterpolations = {
-"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.63;
 "93A23BC2-8596-4C7C-91D5-4BE1B62211B3" = 0.37;
+"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.63;
 };
 isItalic = 1;
 linkStyle = SemiBold;
@@ -1448,8 +1448,8 @@ weightClass = SemiBold;
 {
 interpolationWeight = 75;
 instanceInterpolations = {
-"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.75;
 "93A23BC2-8596-4C7C-91D5-4BE1B62211B3" = 0.25;
+"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.75;
 };
 isBold = 1;
 isItalic = 1;
@@ -1459,8 +1459,8 @@ weightClass = Bold;
 {
 interpolationWeight = 88;
 instanceInterpolations = {
-"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.88;
 "93A23BC2-8596-4C7C-91D5-4BE1B62211B3" = 0.12;
+"D88B488A-3C32-4472-9F31-71E09EBA6059" = 0.88;
 };
 isItalic = 1;
 linkStyle = ExtraBold;
@@ -1504,10 +1504,10 @@ value = "FamilySans Condensed";
 interpolationWeight = 38;
 interpolationWidth = 40;
 instanceInterpolations = {
-"09BCF578-0116-49FE-8D70-63F9070FD4A8" = 0.72;
-"D88B488A-3C32-4472-9F31-71E09EBA6059" = -0.1;
-"93A23BC2-8596-4C7C-91D5-4BE1B62211B3" = -0.1;
-"5655AFE0-FC36-4E6B-88DC-7DE44CE33011" = 0.48;
+"09BCF578-0116-49FE-8D70-63F9070FD4A8" = 0.744;
+"5655AFE0-FC36-4E6B-88DC-7DE44CE33011" = 0.456;
+"93A23BC2-8596-4C7C-91D5-4BE1B62211B3" = -0.124;
+"D88B488A-3C32-4472-9F31-71E09EBA6059" = -0.076;
 };
 isItalic = 1;
 name = Italic;
@@ -1523,10 +1523,10 @@ value = "FamilySans Condensed";
 interpolationWeight = 75;
 interpolationWidth = 40;
 instanceInterpolations = {
-"09BCF578-0116-49FE-8D70-63F9070FD4A8" = 0.35;
-"D88B488A-3C32-4472-9F31-71E09EBA6059" = -0.1;
-"93A23BC2-8596-4C7C-91D5-4BE1B62211B3" = -0.1;
-"5655AFE0-FC36-4E6B-88DC-7DE44CE33011" = 0.85;
+"09BCF578-0116-49FE-8D70-63F9070FD4A8" = 0.3;
+"5655AFE0-FC36-4E6B-88DC-7DE44CE33011" = 0.9;
+"93A23BC2-8596-4C7C-91D5-4BE1B62211B3" = -0.05;
+"D88B488A-3C32-4472-9F31-71E09EBA6059" = -0.15;
 };
 isBold = 1;
 isItalic = 1;
@@ -1542,8 +1542,8 @@ value = "FamilySans Condensed";
 );
 interpolationWidth = 40;
 instanceInterpolations = {
-"D88B488A-3C32-4472-9F31-71E09EBA6059" = -0.2;
 "5655AFE0-FC36-4E6B-88DC-7DE44CE33011" = 1.2;
+"D88B488A-3C32-4472-9F31-71E09EBA6059" = -0.2;
 };
 isItalic = 1;
 linkStyle = Black;
